@@ -1,5 +1,12 @@
 # AngularTodolist
 
+Applicazione estremamente semplice per cominciare a conoscere AngularJS.
+Si tratta di una todo list, per prendere i dati viene utilizzato un famoso servizio di mock di json. Le operazioni di eleimina e aggiungi sono fatte per simulare delle chiamate http.
+
+![screenshot todo list](https://i.imgur.com/5g5IlP4.png)
+
+Qui sotto lascio comunque il readme standard di Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
 ## Development server
